@@ -133,6 +133,8 @@ Students will gain hands-on experience in:
 - Terraform, Ansible
 - CI/CD Pipelines
 - AWS & Azure Cloud
+
+## Testing CICD Pipeline
 - Full-stack project deployment from scratch
 
 This Book Review App serves as one of the **4 real-world DevOps projects** taught in the course.
